@@ -97,7 +97,7 @@ To build **Crypt_Guard** from source, ensure the following dependencies are inst
 
 ### 📦 Pre-Compiled Binaries
 
-Pre-compiled binaries for Windows are available in the [Releases](https://github.com/YOUR_USERNAME/Crypt_Guard/releases) section of the repository. Download the Windows binary and follow the provided instructions for usage.
+Pre-compiled binaries for Windows are available in the [Releases](https://github.com/Y-JANBOUBI/Crypt_Guard/releases) section of the repository. Download the Windows binary and follow the provided instructions for usage.
 
 ---
 
