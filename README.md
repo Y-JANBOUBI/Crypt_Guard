@@ -110,10 +110,11 @@ Pre-compiled binaries for Windows are available in the [Releases](https://github
 
 ## 📬 Contact
 
-For questions, bug reports, or contributions, please visit the [GitHub repository](https://github.com/YOUR_USERNAME/Crypt_Guard) or contact the developer at [your.email@example.com].
+For questions, bug reports, contact me at [https://github.com/Y-JANBOUBI].
 
 ---
 
 *Developed with security in mind by Y. Janboubi.*  
-*Last Updated: July 2025*
+
+
 
