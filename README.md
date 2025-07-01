@@ -74,7 +74,7 @@ To build **Crypt_Guard** from source, ensure the following dependencies are inst
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Crypt_Guard.git
+   git clone https://github.com/Y-JANBOUBI/Crypt_Guard.git
    ```
 
 2. **Navigate to the Project Directory**:
