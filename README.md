@@ -1,7 +1,6 @@
 # 🔐 Crypt_Guard
 
-![Banner](https://via.placeholder.com/800x200.png?text=Crypt_Guard+Banner)  
-*Placeholder for banner image: 52406b37-ef5a-4037-8fdb-5ba04ed47077.png*
+![image](https://github.com/user-attachments/assets/0d07e98b-3a3b-4e31-b7d3-2445d8cdf1f7)
 
 > Developed by **Y. Janboubi** | Version: `1.0`
 
