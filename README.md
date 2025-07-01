@@ -101,12 +101,6 @@ Pre-compiled binaries for Windows are available in the [Releases](https://github
 
 ---
 
-## 📝 Notes
-
-- Ensure you havefacial hair have the necessary permissions to read and write the target binary files.
-- For detailed configuration options, refer to the [project documentation](https://github.com/YOUR_USERNAME/Crypt_Guard/wiki).
-
----
 
 ## 📬 Contact
 
