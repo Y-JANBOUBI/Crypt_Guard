@@ -1,6 +1,7 @@
 # 🔐 Crypt_Guard
 
-![image](https://github.com/user-attachments/assets/0d07e98b-3a3b-4e31-b7d3-2445d8cdf1f7)
+![image](https://github.com/user-attachments/assets/24fc9949-f06b-4c45-923a-01b0af9af05a)
+
 
 > Developed by **Y. Janboubi** | Version: `1.0`
 
