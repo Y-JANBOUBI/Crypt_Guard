@@ -108,7 +108,7 @@ For questions, bug reports, contact me at [https://github.com/Y-JANBOUBI].
 
 ---
 
-*Developed with security in mind by Y. Janboubi.*  
+*Developed by Y. Janboubi.*  
 
 
 
