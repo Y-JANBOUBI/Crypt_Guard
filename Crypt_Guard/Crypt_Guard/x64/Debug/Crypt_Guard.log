@@ -1,0 +1,73 @@
+﻿  AES.c
+  Crypt_Guard.c
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\AES.c(157,22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\AES.c(170,22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(560,11): warning C4244: 'function': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+  (compiling source file 'Crypt_Guard.c')
+  
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(565,28): warning C4244: 'function': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+  (compiling source file 'Crypt_Guard.c')
+  
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(1103,43): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'Crypt_Guard.c')
+  
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(1170,22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Crypt_Guard.c')
+  
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(1178,22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Crypt_Guard.c')
+  
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(12,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(12,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(12,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(13,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(13,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(13,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(14,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(14,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(14,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(15,12): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(15,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(16,12): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(17,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(18,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(19,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(20,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(20,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(20,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(22,12): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(22,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(22,12): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(23,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(23,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(23,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(24,12): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(24,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(24,12): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\Crypt_Guard.c(147,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(653,1): warning C4715: 'AesDencryptPayload': not all control paths return a value
+C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\Crypt_Guard\struct.h(1167,1): warning C4716: 'PrintPayloadFunctions': must return a value
+  Crypt_Guard.vcxproj -> C:\Users\red_s\OneDrive\Desktop\mal-dev\Crypt_Guard\x64\Debug\Crypt_Guard.exe
